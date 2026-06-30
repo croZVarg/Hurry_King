@@ -1,0 +1,14 @@
+C:\Users\rakka\OneDrive\Рабочий стол\Programms\proga\HurryKingProbe\HurryKingProbe\bin\Debug\HurryKingProbe.exe.config
+C:\Users\rakka\OneDrive\Рабочий стол\Programms\proga\HurryKingProbe\HurryKingProbe\bin\Debug\HurryKingProbe.exe
+C:\Users\rakka\OneDrive\Рабочий стол\Programms\proga\HurryKingProbe\HurryKingProbe\bin\Debug\HurryKingProbe.pdb
+C:\Users\rakka\OneDrive\Рабочий стол\Programms\proga\HurryKingProbe\HurryKingProbe\obj\Debug\HurryKingProbe.csproj.AssemblyReference.cache
+C:\Users\rakka\OneDrive\Рабочий стол\Programms\proga\HurryKingProbe\HurryKingProbe\obj\Debug\HurryKingProbe.StartScreen.resources
+C:\Users\rakka\OneDrive\Рабочий стол\Programms\proga\HurryKingProbe\HurryKingProbe\obj\Debug\HurryKingProbe.GameField.resources
+C:\Users\rakka\OneDrive\Рабочий стол\Programms\proga\HurryKingProbe\HurryKingProbe\obj\Debug\HurryKingProbe.Properties.Resources.resources
+C:\Users\rakka\OneDrive\Рабочий стол\Programms\proga\HurryKingProbe\HurryKingProbe\obj\Debug\HurryKingProbe.csproj.GenerateResource.cache
+C:\Users\rakka\OneDrive\Рабочий стол\Programms\proga\HurryKingProbe\HurryKingProbe\obj\Debug\HurryKingProbe.csproj.CoreCompileInputs.cache
+C:\Users\rakka\OneDrive\Рабочий стол\Programms\proga\HurryKingProbe\HurryKingProbe\obj\Debug\HurryKingProbe.exe
+C:\Users\rakka\OneDrive\Рабочий стол\Programms\proga\HurryKingProbe\HurryKingProbe\obj\Debug\HurryKingProbe.pdb
+C:\Users\rakka\OneDrive\Рабочий стол\Programms\proga\HurryKingProbe\HurryKingProbe\obj\Debug\HurryKingProbe.exe.config
+C:\Users\rakka\OneDrive\Рабочий стол\Programms\proga\HurryKingProbe\HurryKingProbe\bin\Debug\images\bluecastle.jpg
+C:\Users\rakka\OneDrive\Рабочий стол\Programms\proga\HurryKingProbe\HurryKingProbe\bin\Debug\images\redcastle.jpg
